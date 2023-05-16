@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="button_1">scale BMI</string>
+    <string name="button_2">about us</string>
+    <string name="button_3">contact us</string>
+    <string name="button_4">exit</string>
+
 </resources>
