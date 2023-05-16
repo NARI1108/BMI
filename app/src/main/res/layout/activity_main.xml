@@ -46,5 +46,6 @@
             android:text="@string/button_4"
             android:textColor="@color/black"
             android:textStyle="bold"
+            android:onClick="btn_click"
             android:background="@drawable/buttonstyle"/>
 </LinearLayout>
