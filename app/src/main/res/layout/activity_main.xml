@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/background"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/background">
     <Button
         android:id="@+id/btn_scale_bmi"
         android:layout_width="200dp"
@@ -44,8 +44,8 @@
             android:layout_marginTop="5dp"
             android:layout_gravity="center"
             android:text="@string/button_4"
-            android:textColor="@color/black"
             android:textStyle="bold"
+            android:textColor="@color/black"
             android:onClick="btn_click"
             android:background="@drawable/buttonstyle"/>
 </LinearLayout>
