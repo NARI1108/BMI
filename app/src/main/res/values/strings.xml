@@ -4,5 +4,14 @@
     <string name="button_2">about us</string>
     <string name="button_3">contact us</string>
     <string name="button_4">exit</string>
-
+    <string name="contact_us.txt">
+        The support team of Lollipop company is by your side in this section
+        Respond to your problems, comments and criticisms.
+        Please, in order to speed up and facilitate the response, your question in the form of a
+        Send a message. Your message will be checked and answered as soon as possible will be given.
+        Thank you for your patience.
+    </string>
+    <string name="number">+14046063522</string>
+    <string name="id_telegram">NRAI0811</string>
+    <string name="id_eitaa">NrAi0811</string>
 </resources>

@@ -1,9 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".contact_Us_Activity">
+    tools:context=".contact_Us_Activity"
+    android:background="@drawable/background_contact_us">
+
+    <TextView
+        android:id="@+id/txt_contact_us"
+        android:layout_width="404dp"
+        android:layout_height="267dp"
+        android:layout_margin="4dp"
+        android:background="@drawable/rectangle"
+        android:gravity="left"
+        android:padding="16dp"
+        android:text="@string/contact_us.txt"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.006" />
+
+    <ImageView
+        android:id="@+id/img_telephone"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:gravity="center"
+        android:background="@drawable/telephone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.231"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_contact_us"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <TextView
+        android:id="@+id/txt_number"
+        android:layout_width="159dp"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="@string/number"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.441"
+        app:layout_constraintStart_toEndOf="@+id/img_telephone"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/img_telegram"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@drawable/telegram"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.23"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_telephone"
+        app:layout_constraintVertical_bias="0.237" />
+
+    <TextView
+        android:id="@+id/txt_telegram"
+        android:layout_width="175dp"
+        android:layout_height="36dp"
+        android:gravity="center"
+        android:text="@string/id_telegram"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toEndOf="@+id/img_telegram"
+        app:layout_constraintTop_toBottomOf="@+id/txt_number"
+        app:layout_constraintVertical_bias="0.319" />
+
+    <ImageView
+        android:id="@+id/img_eitaa"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:background="@drawable/eitaa"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.23"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_telegram"
+        app:layout_constraintVertical_bias="0.504" />
+
+    <TextView
+        android:id="@+id/txt_eitaa"
+        android:layout_width="172dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginBottom="48dp"
+        android:gravity="center"
+        android:text="@string/id_eitaa"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toEndOf="@+id/img_eitaa"
+        app:layout_constraintTop_toBottomOf="@+id/txt_telegram"
+        app:layout_constraintVertical_bias="0.244" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
