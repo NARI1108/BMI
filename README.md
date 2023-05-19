@@ -45,10 +45,10 @@ The second part of the game for two players.<strong>(You can play this game with
            How to define a function in Java language
      </li>       
      <li>
-           Familiarity with sending information between activities
+          Display the exit message when the user touches the back button
      </li>   
      <li>
-           Learning how to style EditTexts
+           Getting to know calculation operations in Java language and converting String value to int
      </li>
 </ul>
  
