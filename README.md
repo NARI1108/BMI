@@ -56,9 +56,6 @@ The second part of the game for two players.<strong>(You can play this game with
      <li>
            Explaining the manifest file and determining the installation location of the program
      </li>
-     <li>
-           Getting to know calculation operations in Java language and converting String value to int
-     </li>
 </ul>
  
  
