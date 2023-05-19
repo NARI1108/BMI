@@ -14,4 +14,12 @@
     <string name="number">+14046063522</string>
     <string name="id_telegram">NRAI0811</string>
     <string name="id_eitaa">NrAi0811</string>
+    <string name="about_us.txt">
+            The Lollipop Android development team is actually
+            a producer of Android software. Lollipop company is
+            a knowledge-based company. which is run by trainees.
+            You can support our company and improve efficient software.
+            Thanks for using our products.
+    </string>
+    <string name="version">version 13.2.1</string>
 </resources>
