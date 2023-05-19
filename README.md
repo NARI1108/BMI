@@ -42,7 +42,7 @@ The second part of the game for two players.<strong>(You can play this game with
            Getting to know the life cycle of activities (Life Cycle Activity)
      </li>      
      <li>
-           Add voice typing to the program
+           How to define a function in Java language
      </li>       
      <li>
            Familiarity with sending information between activities
