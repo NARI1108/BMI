@@ -22,6 +22,36 @@ The second part of the game for two players.<strong>(You can play this game with
           
   </ul>
 
+   </ul>
+   
+   
+<code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+
+
+<ul>
+    <li>
+           Material Design training (making a drop-down menuNavigationDrawer)
+    </li>  
+     <li>
+           Learning how to work with phone vibration in Java language
+     </li>     
+     <li>
+           How to make a Timer in Android Studio
+     </li> 
+     <li>
+           Learning how to create random numbers in Java
+     </li>      
+     <li>
+           Add voice typing to the program
+     </li>       
+     <li>
+           Familiarity with sending information between activities
+     </li>   
+     <li>
+           Learning how to style EditTexts
+     </li>
+</ul>
+ 
  
 ## <img align="left" alt="GIF" height="50px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>    Developer:
 
