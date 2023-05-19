@@ -39,7 +39,7 @@ The second part of the game for two players.<strong>(You can play this game with
            Getting to know EditTexts and styling them
      </li> 
      <li>
-           Learning how to create random numbers in Java
+           Getting to know the life cycle of activities (Life Cycle Activity)
      </li>      
      <li>
            Add voice typing to the program
