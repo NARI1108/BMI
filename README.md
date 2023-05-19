@@ -36,7 +36,7 @@ The second part of the game for two players.<strong>(You can play this game with
            Getting to know RadioButton and RadioGroup and working with them
      </li>     
      <li>
-           How to make a Timer in Android Studio
+           Getting to know EditTexts and styling them
      </li> 
      <li>
            Learning how to create random numbers in Java
