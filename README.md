@@ -30,10 +30,10 @@ The second part of the game for two players.<strong>(You can play this game with
 
 <ul>
     <li>
-           Material Design training (making a drop-down menuNavigationDrawer)
+           Learning how to round buttons
     </li>  
      <li>
-           Learning how to work with phone vibration in Java language
+           Getting to know RadioButton and RadioGroup and working with them
      </li>     
      <li>
            How to make a Timer in Android Studio
