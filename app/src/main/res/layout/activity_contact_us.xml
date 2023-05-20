@@ -13,12 +13,12 @@
         android:layout_width="404dp"
         android:layout_height="267dp"
         android:layout_margin="4dp"
+        android:background="@drawable/rectangle"
         android:gravity="left"
         android:padding="16dp"
         android:text="@string/contact_us.txt"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:background="@drawable/rectangle"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -111,5 +111,19 @@
         app:layout_constraintStart_toEndOf="@+id/img_eitaa"
         app:layout_constraintTop_toBottomOf="@+id/txt_telegram"
         app:layout_constraintVertical_bias="0.244" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="381dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/exit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_contact_us"
+        app:layout_constraintVertical_bias="1.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
