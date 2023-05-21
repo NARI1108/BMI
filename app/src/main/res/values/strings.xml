@@ -22,4 +22,14 @@
             Thanks for using our products.
     </string>
     <string name="version">version 13.2.1</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Name</string>
+    <string name="your_weight">Your weight</string>
+    <string name="kg">kg</string>
+    <string name="tall">Tall</string>
+    <string name="cm">cm</string>
+    <string name="mr">Mr</string>
+    <string name="miss">Miss</string>
+    <string name="your_gender">Your gender</string>
+    <string name="scale">Scale</string>
 </resources>
