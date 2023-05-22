@@ -3,6 +3,8 @@ package com.example.bmi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RadioButton;
@@ -19,6 +21,7 @@ public class bmi_Activity extends AppCompatActivity {
         setContentView(R.layout.activity_bmi);
 
         findViews();
+        animation();
     }
     public void findViews(){
         txt_name = findViewById(R.id.txt_name);
@@ -32,5 +35,30 @@ public class bmi_Activity extends AppCompatActivity {
         rdo_mr   = findViewById(R.id.rdo_mr);
         rdo_miss = findViewById(R.id.rdo_miss);
         btn_scale = findViewById(R.id.btn_scale);
+    }
+    public void animation(){
+        Animation animation_txt_name = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_txt_weight = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_txt_tall = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_txt_gender = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_txt_result = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_edt_name = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_edt_weight = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_edt_tall = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_rdo_mr  = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_rdo_miss = AnimationUtils.loadAnimation(this,R.anim.anim_alpha);
+        Animation animation_btn_scale = AnimationUtils.loadAnimation(this,R.anim.anim_trans_left);
+
+        txt_name.setAnimation(animation_txt_name);
+        txt_weight.setAnimation(animation_txt_weight);
+        txt_tall.setAnimation(animation_txt_tall);
+        txt_gender.setAnimation(animation_txt_gender);
+        txt_result.setAnimation(animation_txt_result);
+        edt_name.setAnimation(animation_edt_name);
+        edt_weight.setAnimation(animation_edt_weight);
+        edt_tall.setAnimation(animation_edt_tall);
+        rdo_mr.setAnimation(animation_rdo_mr);
+        rdo_miss.setAnimation(animation_rdo_miss);
+        btn_scale.setAnimation(animation_btn_scale);
     }
 }
