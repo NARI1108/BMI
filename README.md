@@ -51,9 +51,6 @@
      <li>
            Getting to know another Java command (conditional if command)
      </li>
-     <li>
-           Explaining the manifest file and determining the installation location of the program
-     </li>
 </ul>
  
  
