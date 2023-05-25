@@ -16,7 +16,7 @@
 <p>Do you know if you are fat or not? No? you do not know?</p>
  <p>So you are one of those who need this software! Using this software, you can calculate your body BMI by presenting your height and weight! So download this software as soon as possible.</p>
  
- <p><img src="https://sitek.ir/wp-content/uploads/2019/10/screencapture-identity-flickr-sign-up-2019-09-23-14_17_41.png" width="28">    You can play this game online on this site.</p>
+ <p><img src="https://sitek.ir/wp-content/uploads/2019/10/screencapture-identity-flickr-sign-up-2019-09-23-14_17_41.png" width="28">    You can play this app online on this site.</p>
  
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>  
   <ul>
