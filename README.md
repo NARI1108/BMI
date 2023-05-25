@@ -14,6 +14,7 @@
 <p>Because calculating this value will help you to know whether you are considered fat or thin or within the normal range according to your height and weight.</p>
 <p>Do you know your <strong>BMI</strong>?</p>
 <p>Do you know if you are fat or not? No? you do not know?</p>
+ <p>So you are one of those who need this software! Using this software, you can calculate your body BMI by presenting your height and weight! So download this software as soon as possible.</p>
  
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>  
   <ul>
