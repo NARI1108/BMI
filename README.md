@@ -10,7 +10,7 @@
 
 ## <code><strong>About App</strong></code> ##
 
-<p><li>What is <strong>BMI<strong>? BMI stands for<strong> body mass index </strong>and means body mass index.</li>Now why calculate <strong>BMI</strong>?</p>
+<p><li>What is <strong>BMI<strong>? BMI stands for<strong> body mass index </strong>and means body mass index.</li>    Now why calculate <strong>BMI</strong>?</p>
  
  
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>  
