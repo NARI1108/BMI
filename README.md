@@ -13,6 +13,7 @@
 <p>What is <strong>BMI<strong>? BMI stands for<strong> body mass index </strong>and means body mass index. Now why calculate <strong>BMI</strong>?</p>
 <p>Because calculating this value will help you to know whether you are considered fat or thin or within the normal range according to your height and weight.</p>
 <p>Do you know your <strong>BMI</strong>?</p>
+<p>Do you know if you are fat or not? No? you do not know?</p>
  
 ## <img align="left" alt="GIF" height="50px" src="https://www.toptimenet.com/images/setting.gif"/>  
   <ul>
