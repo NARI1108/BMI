@@ -6,7 +6,7 @@
 
 </h3>
  
-![H12369-min](https://github.com/NARI1108/BMI/assets/125409221/5fd44e90-aeb4-4b90-81e4-809e003e685a)
+                                                         ![H12369-min](https://github.com/NARI1108/BMI/assets/125409221/5fd44e90-aeb4-4b90-81e4-809e003e685a)
 
 ## ✨BMI Vidoe
 
