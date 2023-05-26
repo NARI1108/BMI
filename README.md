@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 </h3>
- <h3 align="center">
+ 
 ![H12369-min](https://github.com/NARI1108/BMI/assets/125409221/5fd44e90-aeb4-4b90-81e4-809e003e685a)
-</h3>
+
 ## ✨BMI Vidoe
 
 [BMI.zip](https://github.com/NARI1108/BMI/files/11578448/BMI.zip)
