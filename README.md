@@ -8,7 +8,7 @@
 
 
  
-  <img src="https://atrisaclinic.com/wp-content/uploads/2020/09/bmi-3.png" >
+  <img src="https://atrisaclinic.com/wp-content/uploads/2020/09/bmi-3.png" width="300">
 
 
 ## ✨BMI Vidoe
