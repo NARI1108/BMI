@@ -15,6 +15,8 @@
 
 [BMI.zip](https://github.com/NARI1108/BMI/files/11578448/BMI.zip)
 
+<p><strong>You can see a profile of our app below.</strong></p>
+
 ## <code><strong>About App</strong></code> ##
 
 <p>What is <strong>BMI<strong>? BMI stands for<strong> body mass index </strong>and means body mass index. Now why calculate <strong>BMI</strong>?</p>
